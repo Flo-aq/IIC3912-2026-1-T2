@@ -1,0 +1,1134 @@
+
+==============================================================================
+Feature extraction
+==============================================================================
+
+Processed file [1/185]
+  Name:            DSC07956.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11081
+Processed file [2/185]
+  Name:            DSC07957.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11132
+Processed file [3/185]
+  Name:            DSC07958.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11264
+Processed file [4/185]
+  Name:            DSC07959.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11274
+Processed file [5/185]
+  Name:            DSC07960.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11264
+Processed file [6/185]
+  Name:            DSC07966.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10181
+Processed file [7/185]
+  Name:            DSC07962.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11238
+Processed file [8/185]
+  Name:            DSC07963.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10899
+Processed file [9/185]
+  Name:            DSC07964.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10292
+Processed file [10/185]
+  Name:            DSC07965.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10214
+Processed file [11/185]
+  Name:            DSC07961.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10950
+Processed file [12/185]
+  Name:            DSC07967.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10172
+Processed file [13/185]
+  Name:            DSC07968.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9833
+Processed file [14/185]
+  Name:            DSC07969.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9598
+Processed file [15/185]
+  Name:            DSC07970.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9630
+Processed file [16/185]
+  Name:            DSC07971.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9718
+Processed file [17/185]
+  Name:            DSC07972.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9577
+Processed file [18/185]
+  Name:            DSC07973.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9396
+Processed file [19/185]
+  Name:            DSC07974.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9742
+Processed file [20/185]
+  Name:            DSC07975.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10075
+Processed file [21/185]
+  Name:            DSC07976.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10141
+Processed file [22/185]
+  Name:            DSC07977.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9896
+Processed file [23/185]
+  Name:            DSC07978.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9960
+Processed file [24/185]
+  Name:            DSC07979.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10224
+Processed file [25/185]
+  Name:            DSC07980.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10052
+Processed file [26/185]
+  Name:            DSC07981.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9940
+Processed file [27/185]
+  Name:            DSC07982.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9328
+Processed file [28/185]
+  Name:            DSC07983.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9943
+Processed file [29/185]
+  Name:            DSC07984.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10463
+Processed file [30/185]
+  Name:            DSC07985.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10611
+Processed file [31/185]
+  Name:            DSC07986.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10648
+Processed file [32/185]
+  Name:            DSC07987.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11207
+Processed file [33/185]
+  Name:            DSC07988.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11382
+Processed file [34/185]
+  Name:            DSC07989.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10936
+Processed file [35/185]
+  Name:            DSC07990.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11257
+Processed file [36/185]
+  Name:            DSC07991.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11298
+Processed file [37/185]
+  Name:            DSC07992.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11531
+Processed file [38/185]
+  Name:            DSC07993.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11449
+Processed file [39/185]
+  Name:            DSC07994.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10840
+Processed file [40/185]
+  Name:            DSC07995.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11675
+Processed file [41/185]
+  Name:            DSC07996.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11130
+Processed file [42/185]
+  Name:            DSC07997.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10824
+Processed file [43/185]
+  Name:            DSC07998.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10899
+Processed file [44/185]
+  Name:            DSC07999.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10134
+Processed file [45/185]
+  Name:            DSC08000.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10137
+Processed file [46/185]
+  Name:            DSC08001.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9855
+Processed file [47/185]
+  Name:            DSC08002.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9611
+Processed file [48/185]
+  Name:            DSC08003.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9401
+Processed file [49/185]
+  Name:            DSC08004.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9559
+Processed file [50/185]
+  Name:            DSC08005.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9485
+Processed file [51/185]
+  Name:            DSC08006.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9440
+Processed file [52/185]
+  Name:            DSC08007.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9836
+Processed file [53/185]
+  Name:            DSC08008.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9104
+Processed file [54/185]
+  Name:            DSC08009.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9234
+Processed file [55/185]
+  Name:            DSC08010.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9216
+Processed file [56/185]
+  Name:            DSC08011.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9262
+Processed file [57/185]
+  Name:            DSC08012.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9901
+Processed file [58/185]
+  Name:            DSC08013.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9287
+Processed file [59/185]
+  Name:            DSC08014.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9132
+Processed file [60/185]
+  Name:            DSC08015.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9218
+Processed file [61/185]
+  Name:            DSC08016.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8589
+Processed file [62/185]
+  Name:            DSC08017.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8111
+Processed file [63/185]
+  Name:            DSC08018.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8375
+Processed file [64/185]
+  Name:            DSC08019.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8642
+Processed file [65/185]
+  Name:            DSC08020.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9067
+Processed file [66/185]
+  Name:            DSC08021.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9842
+Processed file [67/185]
+  Name:            DSC08022.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10264
+Processed file [68/185]
+  Name:            DSC08023.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10806
+Processed file [69/185]
+  Name:            DSC08024.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10949
+Processed file [70/185]
+  Name:            DSC08025.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11415
+Processed file [71/185]
+  Name:            DSC08026.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11477
+Processed file [72/185]
+  Name:            DSC08027.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11425
+Processed file [73/185]
+  Name:            DSC08028.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11339
+Processed file [74/185]
+  Name:            DSC08029.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10758
+Processed file [75/185]
+  Name:            DSC08030.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10690
+Processed file [76/185]
+  Name:            DSC08031.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11079
+Processed file [77/185]
+  Name:            DSC08032.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10530
+Processed file [78/185]
+  Name:            DSC08033.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10232
+Processed file [79/185]
+  Name:            DSC08034.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10178
+Processed file [80/185]
+  Name:            DSC08035.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10046
+Processed file [81/185]
+  Name:            DSC08036.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9762
+Processed file [82/185]
+  Name:            DSC08037.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9849
+Processed file [83/185]
+  Name:            DSC08038.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9700
+Processed file [84/185]
+  Name:            DSC08039.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9322
+Processed file [85/185]
+  Name:            DSC08040.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8919
+Processed file [86/185]
+  Name:            DSC08041.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8603
+Processed file [87/185]
+  Name:            DSC08042.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8705
+Processed file [88/185]
+  Name:            DSC08043.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8293
+Processed file [89/185]
+  Name:            DSC08044.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8327
+Processed file [90/185]
+  Name:            DSC08045.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8386
+Processed file [91/185]
+  Name:            DSC08046.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8503
+Processed file [92/185]
+  Name:            DSC08047.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        12643
+Processed file [93/185]
+  Name:            DSC08048.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13518
+Processed file [94/185]
+  Name:            DSC08049.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8175
+Processed file [95/185]
+  Name:            DSC08050.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8642
+Processed file [96/185]
+  Name:            DSC08051.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8872
+Processed file [97/185]
+  Name:            DSC08052.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9158
+Processed file [98/185]
+  Name:            DSC08053.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9046
+Processed file [99/185]
+  Name:            DSC08054.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9815
+Processed file [100/185]
+  Name:            DSC08055.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9751
+Processed file [101/185]
+  Name:            DSC08056.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10118
+Processed file [102/185]
+  Name:            DSC08057.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10193
+Processed file [103/185]
+  Name:            DSC08058.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10479
+Processed file [104/185]
+  Name:            DSC08059.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10856
+Processed file [105/185]
+  Name:            DSC08060.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10868
+Processed file [106/185]
+  Name:            DSC08061.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11107
+Processed file [107/185]
+  Name:            DSC08062.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10821
+Processed file [108/185]
+  Name:            DSC08063.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10429
+Processed file [109/185]
+  Name:            DSC08064.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10720
+Processed file [110/185]
+  Name:            DSC08065.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10297
+Processed file [111/185]
+  Name:            DSC08066.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10076
+Processed file [112/185]
+  Name:            DSC08067.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9801
+Processed file [113/185]
+  Name:            DSC08068.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9674
+Processed file [114/185]
+  Name:            DSC08069.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9443
+Processed file [115/185]
+  Name:            DSC08070.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8772
+Processed file [116/185]
+  Name:            DSC08071.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8967
+Processed file [117/185]
+  Name:            DSC08072.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8716
+Processed file [118/185]
+  Name:            DSC08073.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8490
+Processed file [119/185]
+  Name:            DSC08074.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8418
+Processed file [120/185]
+  Name:            DSC08075.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8304
+Processed file [121/185]
+  Name:            DSC08076.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8217
+Processed file [122/185]
+  Name:            DSC08077.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8669
+Processed file [123/185]
+  Name:            DSC08078.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        12979
+Processed file [124/185]
+  Name:            DSC08079.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13666
+Processed file [125/185]
+  Name:            DSC08080.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8043
+Processed file [126/185]
+  Name:            DSC08081.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8671
+Processed file [127/185]
+  Name:            DSC08082.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8970
+Processed file [128/185]
+  Name:            DSC08083.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9385
+Processed file [129/185]
+  Name:            DSC08084.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9534
+Processed file [130/185]
+  Name:            DSC08085.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9707
+Processed file [131/185]
+  Name:            DSC08086.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10660
+Processed file [132/185]
+  Name:            DSC08087.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10167
+Processed file [133/185]
+  Name:            DSC08088.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10299
+Processed file [134/185]
+  Name:            DSC08089.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10549
+Processed file [135/185]
+  Name:            DSC08090.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11083
+Processed file [136/185]
+  Name:            DSC08091.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10632
+Processed file [137/185]
+  Name:            DSC08092.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10335
+Processed file [138/185]
+  Name:            DSC08093.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10787
+Processed file [139/185]
+  Name:            DSC08094.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9999
+Processed file [140/185]
+  Name:            DSC08095.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9962
+Processed file [141/185]
+  Name:            DSC08096.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9767
+Processed file [142/185]
+  Name:            DSC08097.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9071
+Processed file [143/185]
+  Name:            DSC08098.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8006
+Processed file [144/185]
+  Name:            DSC08099.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8003
+Processed file [145/185]
+  Name:            DSC08100.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13788
+Processed file [146/185]
+  Name:            DSC08101.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        14064
+Processed file [147/185]
+  Name:            DSC08102.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13599
+Processed file [148/185]
+  Name:            DSC08103.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13257
+Processed file [149/185]
+  Name:            DSC08104.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13583
+Processed file [150/185]
+  Name:            DSC08105.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        12788
+Processed file [151/185]
+  Name:            DSC08106.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        12679
+Processed file [152/185]
+  Name:            DSC08107.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        12375
+Processed file [153/185]
+  Name:            DSC08108.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        12674
+Processed file [154/185]
+  Name:            DSC08109.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13155
+Processed file [155/185]
+  Name:            DSC08110.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13412
+Processed file [156/185]
+  Name:            DSC08111.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8024
+Processed file [157/185]
+  Name:            DSC08112.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8859
+Processed file [158/185]
+  Name:            DSC08113.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9291
+Processed file [159/185]
+  Name:            DSC08114.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9854
+Processed file [160/185]
+  Name:            DSC08115.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10034
+Processed file [161/185]
+  Name:            DSC08116.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10257
+Processed file [162/185]
+  Name:            DSC08117.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11232
+Processed file [163/185]
+  Name:            DSC08118.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10832
+Processed file [164/185]
+  Name:            DSC08119.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10529
+Processed file [165/185]
+  Name:            DSC08120.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10324
+Processed file [166/185]
+  Name:            DSC08121.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11289
+Processed file [167/185]
+  Name:            DSC08122.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        11637
+Processed file [168/185]
+  Name:            DSC08123.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10419
+Processed file [169/185]
+  Name:            DSC08124.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9903
+Processed file [170/185]
+  Name:            DSC08125.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9711
+Processed file [171/185]
+  Name:            DSC08126.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10164
+Processed file [172/185]
+  Name:            DSC08127.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8636
+Processed file [173/185]
+  Name:            DSC08128.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8131
+Processed file [174/185]
+  Name:            DSC08129.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8075
+Processed file [175/185]
+  Name:            DSC08130.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13328
+Processed file [176/185]
+  Name:            DSC08131.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13904
+Processed file [177/185]
+  Name:            DSC08132.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        14115
+Processed file [178/185]
+  Name:            DSC08133.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13313
+Processed file [179/185]
+  Name:            DSC08134.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        13715
+Processed file [180/185]
+  Name:            DSC08135.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        8069
+Processed file [181/185]
+  Name:            DSC08136.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9302
+Processed file [182/185]
+  Name:            DSC08137.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9229
+Processed file [183/185]
+  Name:            DSC08138.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9478
+Processed file [184/185]
+  Name:            DSC08139.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        9208
+Processed file [185/185]
+  Name:            DSC08140.JPG
+  Dimensions:      5187 x 3361
+  Camera:          #1 - OPENCV
+  Focal Length:    6224.40px
+  Features:        10711
+Elapsed time: 1.159 [minutes]
+
+====================
+COMANDO: colmap feature_extractor --database_path expC/db/garden_Ext_HighFeatures.db --image_path data/garden/images --ImageReader.single_camera 1 --ImageReader.camera_model OPENCV --SiftExtraction.use_gpu 1 --SiftExtraction.max_num_features 8000
+====================
+
+==============================================================================
+Exhaustive feature matching
+==============================================================================
+
+Matching block [1/4, 1/4] in 256.225s
+Matching block [1/4, 2/4] in 222.618s
+Matching block [1/4, 3/4] in 232.985s
+Matching block [1/4, 4/4] in 116.090s
+Matching block [2/4, 1/4] in 243.085s
+Matching block [2/4, 2/4] in 205.183s
+Matching block [2/4, 3/4] in 217.435s
+Matching block [2/4, 4/4] in 107.113s
+Matching block [3/4, 1/4]

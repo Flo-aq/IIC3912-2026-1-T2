@@ -1,0 +1,8 @@
+data/
+colmap_work/
+expE/data/
+.ipynb_checkpoints/
+
+*.db
+*.db-wal
+*.db-shm
