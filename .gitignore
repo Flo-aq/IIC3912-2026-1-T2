@@ -6,3 +6,6 @@ expE/data/
 *.db
 *.db-wal
 *.db-shm
+
+*.bin
+*.png
